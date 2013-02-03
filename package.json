@@ -1,0 +1,22 @@
+{
+    "name": "jsymfony-routing",
+    "description": "JSymfony routing component",
+    "version": "0.0.1",
+    "author": "Vasily Khayrulin <sirianru@gmail.com>",
+    "keywords": ["jsymfony", "routing"],
+    "dependencies": {
+        "jsymfony-config": "*",
+        "lodash": "*",
+        "js-yaml": "*"
+    },
+    "engines": {
+        "node": ">= 0.8.16"
+    },
+    "bugs": {
+        "url": "https://github.com/jsymfony/routing/issues/new"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jsymfony/routing.git"
+    }
+}
