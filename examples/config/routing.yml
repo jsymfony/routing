@@ -1,0 +1,5 @@
+static_page:
+    path: '/{page}'
+    defaults: {page: 'about'}
+    requirements:
+         page: about|contacts
